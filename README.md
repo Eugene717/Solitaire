@@ -10,7 +10,6 @@ Solitaire is a classic single-player card game played with a standard deck of 52
 ## Installation:
 1. Clone this repository `git clone https://github.com/Eugene717/Solitaire.git`
 2. Install VS (C++)
-3. Install SFML to VS
 4. Run Build
 
 ## Images:
